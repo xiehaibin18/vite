@@ -46,7 +46,7 @@
     "browserslist": "^4.22.2",
     "core-js": "^3.34.0",
     "magic-string": "^0.30.5",
-    "regenerator-runtime": "^0.14.0",
+    "regenerator-runtime": "^0.14.1",
     "systemjs": "^6.14.2"
   },
   "peerDependencies": {
