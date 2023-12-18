@@ -262,7 +262,7 @@ npm add -D less
 npm add -D stylus
 ```
 
-If using Vue single file components, this also automatically enables `<style lang="sass">` et al.
+If using Vue single file components, this also automatically enables `<style lang="scss">` et al.
 
 Vite improves `@import` resolving for Sass and Less so that Vite aliases are also respected. In addition, relative `url()` references inside imported Sass/Less files that are in different directories from the root file are also automatically rebased to ensure correctness.
 
